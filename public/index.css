@@ -21,6 +21,7 @@ h2 {
 body {
   background: linear-gradient(45deg, #547579, #b8e3f9, #b3c4cc) no-repeat fixed
     center;
+    background-image: url(https://source.unsplash.com/1600x900/?landscape);
   overflow-x: auto;
   overflow-y: auto;
 }
